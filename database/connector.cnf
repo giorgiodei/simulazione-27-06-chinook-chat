@@ -1,0 +1,6 @@
+[client]
+host = localhost
+user = root
+password =
+database = chinook
+port = 3306
